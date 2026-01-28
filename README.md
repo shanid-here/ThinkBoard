@@ -41,5 +41,3 @@ The app features JWT-based authentication using HTTP-only cookies, a clean MVC b
 
 ---
 
-## 📁 Project Structure
-
